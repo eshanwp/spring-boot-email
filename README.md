@@ -1,4 +1,4 @@
-ðŸƒ Spring Boot Email Example
+🍃 Spring Boot Email Example
 
 This example Contains following functionality
 
